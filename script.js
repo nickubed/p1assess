@@ -2,7 +2,10 @@ let addButton = document.getElementById('plus')
 let subButton = document.getElementById('minus')
 let final = document.getElementById('final')
 let total = 0
+let def = 1
+let input = document.getElementById('input')
 
+input.value = def
 final.textContent = total
 
 const add = () => {
