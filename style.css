@@ -1,0 +1,33 @@
+body{
+    align-content: center;
+    text-align: center;
+}
+#top{
+    margin-bottom: 80px;
+}
+#input{
+    height: 60px;
+    width: 120px;
+    text-align: center;
+    padding: 20 60;
+    font-size: 44px;
+    border-radius: 8px;
+    border: 5px solid grey;
+}
+button{
+    color: white;
+    display: inline-block;
+    height: 82px;
+    width: 82px;
+    border-radius: 8px;
+    font-size: 44px;
+    background: grey
+}
+button:hover{
+    background: white;
+    color: grey;
+}
+
+h1{
+    font-size: 60px;
+}
